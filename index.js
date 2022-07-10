@@ -1,11 +1,11 @@
 const inquirer = require('inquirer');
-const managerInfo = require('./manager');
-const internInfo = require('./intern');
-const engineerInfo = require('./engineer');
-const generateHTML = require('./generate-html');
+const managerInfo = require('./lib/manager');
+const internInfo = require('./lib/intern');
+const engineerInfo = require('./lib/engineer');
+const generateHTML = require('./src/generate-html');
 const fs = require('fs');
 const path = require('path');
-const outputDIR = path.resolve(__dirname, 'output')
+const outputDIR = path.resolve(__dirname, 'dist')
 const outputPath = path.join(outputDIR, "team-page.html");
 const teamMembers = [];
 
