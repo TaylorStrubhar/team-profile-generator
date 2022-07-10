@@ -37,8 +37,6 @@ In order to run tests, please run the following:
 
 ` jest `
 
-## Video
-
 ## Screenshot
 
 ![an image of the app being run in command line](assets/images/teamgeneratorscreenshot.jpg)
