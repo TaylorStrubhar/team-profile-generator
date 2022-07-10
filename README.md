@@ -37,6 +37,12 @@ In order to run tests, please run the following:
 
 ` jest `
 
+## Video
+
+## Screenshot
+
+![an image of the app being run in command line](assets/images/teamgeneratorscreenshot.jpg)
+
 ## Questions
 
 Questions about this repository should be directed to [taylor.strubhar@gmail.com](mailto:taylor.strubhar@gmail.com). View more of my work at [TaylorStrubhar](https://github.com/TaylorStrubhar)
